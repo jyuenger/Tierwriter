@@ -15,3 +15,9 @@ Things you'll need:
 - One clip-in plate mounted 7u stabilizer for the spacebar
 - Insulated wire for connecting the key matrix to the controller (see matrix/pin diagram in the Miscellaneous folder)
 - Solder and soldering iron (for wiring, and for heat-setting the threaded inserts into the support wedges)
+
+
+TO DO:
+- Actually provide STL files for support wedges (schematics for designing your own are in the Miscellaneous folder)
+- Port firmware to VIAL
+- Design decorative/protective exterior casing
