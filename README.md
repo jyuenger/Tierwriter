@@ -19,5 +19,6 @@ Things you'll need:
 
 TO DO:
 - Actually provide STL files for support wedges (schematics for designing your own are in the Miscellaneous folder)
+- Write build guide
 - Port firmware to VIAL
 - Design decorative/protective exterior casing
