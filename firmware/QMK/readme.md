@@ -1,12 +1,10 @@
 # Tierwriter
 
-![Tierwriter](imgur.com image replace me!)
-
 *A short description of the keyboard/project*
 
 * Keyboard Maintainer: [Tierwriter](https://github.com/jyuenger)
 * Hardware Supported: Stampy PR2040
-* Hardware Availability: *Links to where you can find this hardware*
+* Hardware Availability: [Keebio](https://keeb.io/products/stampy-rp2040-usb-c-controller-board-for-handwiring)
 
 Make example for this keyboard (after setting up your build environment):
 
