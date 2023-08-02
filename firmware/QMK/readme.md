@@ -4,8 +4,8 @@
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [Tierwriter](https://github.com/piper)
-* Hardware Supported: *The PCBs, controllers supported*
+* Keyboard Maintainer: [Tierwriter](https://github.com/jyuenger)
+* Hardware Supported: Stampy PR2040
 * Hardware Availability: *Links to where you can find this hardware*
 
 Make example for this keyboard (after setting up your build environment):
