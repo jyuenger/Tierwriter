@@ -1,5 +1,8 @@
 # Tierwriter
 
+[!Mockup](https://github.com/jyuenger/Tierwriter/blob/9abbb466a296ae63d2cabd3b20eebf0fafaae6d2/documentation/Mockup.png)
+
+
 A tiered, typewriter-style handwired 60% mechanical keyboard with arrows and UK ISO support
 
 Things you'll need:
