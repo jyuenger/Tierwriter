@@ -7,7 +7,7 @@ Things you'll need:
 - Five custom 1.5mm thick switchplates, one for each row (AI files for lasercutting in the Plate folder)
 - Two stepped support wedges (STL file for 3D printing in the STL folder)
 - Ten M3 8mm screws
-- Ten M3 threaded inserts to heat-set into the holes in the support wedges
+- Ten M3 threaded inserts to heat-set into the holes in the support wedges (four more if you want to install threaded inserts into the holes on the underside of the wedges, intended for mounting the whole assembly into a future baseplate or case)
 - An MX keycap set with the following nonstandard keys - 1.5u R2 backspace, 1.5u R3 Enter
 - 70 MX switches
 - 70 1N4148 diodes
