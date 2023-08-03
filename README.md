@@ -21,3 +21,4 @@ TO DO:
 - Write build guide
 - Port firmware to VIAL
 - Design decorative/protective exterior casing
+- Modify row 5 plate to accommodate an 8u spacebar
