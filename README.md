@@ -5,7 +5,7 @@ A tiered, typewriter-style handwired 60% mechanical keyboard with arrows and UK 
 Things you'll need:
 - A controller ([Stampy RP2040](https://keeb.io/products/stampy-rp2040-usb-c-controller-board-for-handwiring)) and firmware (UF2 files in the Firmware folder)
 - Five custom 1.5mm thick switchplates, one for each row (AI files for lasercutting in the Plate folder)
-- Two stepped support wedges (STL files for 3D printing in the STL folder)
+- Two stepped support wedges (STL file for 3D printing in the STL folder)
 - Ten M3 8mm screws
 - Ten M3 threaded inserts to heat-set into the holes in the support wedges
 - An MX keycap set with the following nonstandard keys - 1.5u R2 backspace, 1.5u R3 Enter
@@ -18,7 +18,6 @@ Things you'll need:
 
 
 TO DO:
-- Actually provide STL files for support wedges (schematics for designing your own are in the Miscellaneous folder)
 - Write build guide
 - Port firmware to VIAL
 - Design decorative/protective exterior casing
