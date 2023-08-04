@@ -16,7 +16,7 @@ A tiered, typewriter-style, handwired 60% mechanical keyboard with arrows, 7u/8u
 - 70 1N4148 diodes
 - Insulated wire for connecting the key matrix to the controller (see matrix/pin diagram in the Miscellaneous folder)
 - Solder and soldering iron (for wiring, and for heat-setting the threaded inserts into the support wedges)
-- One clip-in plate mounted 7u or 8u stabilizer for the spacebar
+- One clip-in plate mounted 7u or 8u stabilizer for the spacebar ([8U stabilizers available at SPRiT](https://www.spritdesigns.com/product-page/stabilizers))
 - Optional: 70 [1u Amoeba PCBs](https://keeb.io/products/amoeba-single-switch-pcbs)
 - Optional: Five decorative top plates, one for each row (AI files for lasercutting in the Plates folder; will fit MX or Alps build)
 
