@@ -14,11 +14,11 @@ A tiered, typewriter-style, handwired 60% mechanical keyboard with arrows, 7u/8u
 - An MX or Alps keycap set with the following nonstandard keys - 1.5u R2 backspace, 1.5u R3 Enter, 7U or 8U spacebar, and a 1u R4 key to use as Caps Lock
 - 70 MX or Alps switches
 - 70 1N4148 diodes
-- Optional: 70 [1u Amoeba PCBs](https://keeb.io/products/amoeba-single-switch-pcbs)
-- Optional: Five decorative top plates for each row (AI files for lasercutting in the Plates folder)
-- One clip-in plate mounted 7u or 8u stabilizer for the spacebar
 - Insulated wire for connecting the key matrix to the controller (see matrix/pin diagram in the Miscellaneous folder)
 - Solder and soldering iron (for wiring, and for heat-setting the threaded inserts into the support wedges)
+- One clip-in plate mounted 7u or 8u stabilizer for the spacebar
+- Optional: 70 [1u Amoeba PCBs](https://keeb.io/products/amoeba-single-switch-pcbs)
+- Optional: Five decorative top plates, one for each row (AI files for lasercutting in the Plates folder)
 
 ### Default Keymap:
 <img src="https://github.com/jyuenger/Tierwriter/blob/main/documentation/Default%20Keymap.png" width=300>
