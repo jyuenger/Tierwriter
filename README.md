@@ -20,6 +20,7 @@ Things you'll need:
 - Insulated wire for connecting the key matrix to the controller (see matrix/pin diagram in the Miscellaneous folder)
 - Solder and soldering iron (for wiring, and for heat-setting the threaded inserts into the support wedges)
 
+<img src="https://github.com/jyuenger/Tierwriter/blob/main/documentation/Default%20Keymap.png" width=300>
 
 TO DO:
 - Write build guide
