@@ -13,7 +13,7 @@ A tiered, typewriter-style, handwired 60% mechanical keyboard with arrows, 7u/8u
 - Two stepped support wedges (STL file for 3D printing in the STL folder)
 - Ten M3 8mm screws (four more if you want to screw the undersides of the wedges to a base plate)
 - Ten M3 threaded inserts to heat-set into the holes in the support wedges (four more if you want to install threaded inserts into the holes on the undersides of the wedges, intended for mounting the whole assembly into a base plate or future case)
-- An MX or Alps keycap set with the following nonstandard keys - 1.5u R2 backspace, 1.5u R3 Enter, 7U or 8U spacebar, and a 1u R4 key to use as Caps Lock
+- An MX or Alps keycap set with the following <b>nonstandard keys</b>: 1.5u R2 backspace, 1.5u R3 Enter. Plus a 7U or 8U spacebar, and any extra 1u R4 key you'd like to use as Caps Lock
 - 70 MX or Alps switches
 - 70 1N4148 diodes
 - Insulated wire for connecting the key matrix to the controller (see matrix/pin diagram in the Miscellaneous folder)
