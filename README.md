@@ -18,7 +18,7 @@ A tiered, typewriter-style, handwired 60% mechanical keyboard with arrows, 7u/8u
 - Solder and soldering iron (for wiring, and for heat-setting the threaded inserts into the support wedges)
 - One clip-in plate mounted 7u or 8u stabilizer for the spacebar
 - Optional: 70 [1u Amoeba PCBs](https://keeb.io/products/amoeba-single-switch-pcbs)
-- Optional: Five decorative top plates, one for each row (AI files for lasercutting in the Plates folder)
+- Optional: Five decorative top plates, one for each row (AI files for lasercutting in the Plates folder; will fit MX or Alps build)
 
 ### Default Keymap:
 <img src="https://github.com/jyuenger/Tierwriter/blob/main/documentation/Default%20Keymap.png" width=300>
