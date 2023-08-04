@@ -5,7 +5,7 @@
 
 A tiered, typewriter-style, handwired 60% mechanical keyboard with arrows, 7u/8u spacebar, and UK ISO support
 
-Things you'll need:
+## Things you'll need:
 - A controller ([Stampy RP2040](https://keeb.io/products/stampy-rp2040-usb-c-controller-board-for-handwiring)) and firmware (UF2 files in the Firmware folder)
 - Five custom 1.5mm thick switchplates, one for each row (AI files for lasercutting in the Plate folder; Alps/MX version is in the Alps subfolder)
 - Two stepped support wedges (STL file for 3D printing in the STL folder)
@@ -20,9 +20,10 @@ Things you'll need:
 - Insulated wire for connecting the key matrix to the controller (see matrix/pin diagram in the Miscellaneous folder)
 - Solder and soldering iron (for wiring, and for heat-setting the threaded inserts into the support wedges)
 
+### Default Keymap:
 <img src="https://github.com/jyuenger/Tierwriter/blob/main/documentation/Default%20Keymap.png" width=300>
 
-TO DO:
+## To Do:
 - Write build guide
 - Port firmware to VIAL
 - Design decorative/protective exterior casing
