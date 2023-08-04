@@ -5,6 +5,8 @@
 
 A tiered, typewriter-style, handwired 60% mechanical keyboard with arrows, 7u/8u spacebar, and UK ISO support
 
+## BUILD GUIDE AND PROTOTYPE PHOTOS COMING SEPTEMBER 2023
+
 ## Things You'll Need:
 - A controller ([Stampy RP2040](https://keeb.io/products/stampy-rp2040-usb-c-controller-board-for-handwiring)) and firmware (UF2 files in the Firmware folder)
 - Five custom 1.5mm thick switchplates, one for each row (AI files for lasercutting in the Plate folder; Alps/MX combo version is in the Alps subfolder)
