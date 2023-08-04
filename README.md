@@ -3,7 +3,7 @@
 <img src="https://github.com/jyuenger/Tierwriter/blob/9abbb466a296ae63d2cabd3b20eebf0fafaae6d2/documentation/Mockup.png" width="300">
 
 
-A tiered, typewriter-style handwired 60% mechanical keyboard with arrows and UK ISO support
+A tiered, typewriter-style, handwired 60% mechanical keyboard with arrows, 7u/8u spacebar, and UK ISO support
 
 Things you'll need:
 - A controller ([Stampy RP2040](https://keeb.io/products/stampy-rp2040-usb-c-controller-board-for-handwiring)) and firmware (UF2 files in the Firmware folder)
