@@ -7,7 +7,7 @@ A tiered, typewriter-style, handwired 60% mechanical keyboard with arrows, 7u/8u
 
 ## Things You'll Need:
 - A controller ([Stampy RP2040](https://keeb.io/products/stampy-rp2040-usb-c-controller-board-for-handwiring)) and firmware (UF2 files in the Firmware folder)
-- Five custom 1.5mm thick switchplates, one for each row (AI files for lasercutting in the Plate folder; Alps/MX version is in the Alps subfolder)
+- Five custom 1.5mm thick switchplates, one for each row (AI files for lasercutting in the Plate folder; Alps/MX combo version is in the Alps subfolder)
 - Two stepped support wedges (STL file for 3D printing in the STL folder)
 - Ten M3 8mm screws (four more if you want to screw the undersides of the wedges to a base plate)
 - Ten M3 threaded inserts to heat-set into the holes in the support wedges (four more if you want to install threaded inserts into the holes on the undersides of the wedges, intended for mounting the whole assembly into a base plate or future case)
