@@ -28,11 +28,11 @@ A tiered, typewriter-style, handwired 60% mechanical keyboard with arrows, 7u/8u
 
 ## Provisional Build Guide
 
-These instructions assume you're using [Amoeba 1u PCBs](https://keeb.io/products/amoeba-single-switch-pcbs) on every key, and a [Stampy RP2040 PCB](https://keeb.io/products/stampy-rp2040-usb-c-controller-board-for-handwiring)).
+These instructions assume you're using [Amoeba 1u PCBs](https://keeb.io/products/amoeba-single-switch-pcbs) on every key, and a [Stampy RP2040 PCB](https://keeb.io/products/stampy-rp2040-usb-c-controller-board-for-handwiring).
 
 ### Attaching and Soldering Diodes
 
-1. On each Amoeba, insert a 1N4148 diode on the underside, with the diode's black bar on the same side as the bar printed on the Amoeba.
+1. On each Amoeba, insert a 1N4148 diode into underside in the [indicated location](https://github.com/mtl/keyboard-pcbs/blob/master/svg/instructions.svg), with the diode's black bar on the same side as the bar printed on the Amoeba.
 2. Solder both ends of the diode onto the Amoeba, and trim the diode's legs if necessary.
 
 ### Assembling the Switchplates
