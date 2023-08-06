@@ -39,7 +39,7 @@ Default Keymap
 - Ten M3 threaded inserts to heat-set into the holes in the support wedges (four more if you want to screw the undersides of the wedges the optional base plate, plus three more if you want to install the rear wall)
 - An MX or Alps keycap set with the following ***nonstandard keys***: 1.5u R2 backspace, 1.5u R3 Enter. You'll also need a 7U or 8U spacebar, and any extra 1u R4 key that you'd like to use as a Caps Lock
 - 70 MX or Alps switches
-- 70 1N4148 diodes
+- 70 1N4148 through-hole diodes
 - Insulated wire for connecting the key matrix to the controller (see matrix/pin diagram in the Documentation/Wiring folder)
 - Solder and soldering iron (for wiring, and for heat-setting the threaded inserts into the support wedges)
 - One clip-in plate mounted 7u or 8u stabilizer for the spacebar ([8U stabilizers available at SPRiT](https://www.spritdesigns.com/product-page/stabilizers))
