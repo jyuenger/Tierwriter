@@ -3,7 +3,7 @@
 A tiered, typewriter-style, handwired 60% mechanical keyboard with arrows, 7u/8u spacebar, dual MX/Alps support, and modified ISO
 
 ## FULL BUILD GUIDE AND PROTOTYPE PHOTOS COMING SEPTEMBER 2023.
-See [parts list](#what-you'll-need)
+See [Parts List](#what-you'll-need)
 
 Jump to [Provisional Build Guide](#provisional-build-guide)
 
