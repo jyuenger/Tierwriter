@@ -1,4 +1,4 @@
-// Copyright 2023 piper2 (@piper)
+// Copyright 2023
 // SPDX-License-Identifier: GPL-2.0-or-later
 
 #pragma once
