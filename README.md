@@ -18,11 +18,11 @@ Finally, there are arrows. I can't live without dedicated arrow keys.
 
 Exploded parts diagram
 
-<img src="https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Build%20Guide%20Illustrations/Diagram.png" width="480">
+<img alt="Exploded parts diagram" src="https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Build%20Guide%20Illustrations/Diagram.png" width="480">
 
 Mockup of tiered structure
 
-<img src="https://github.com/jyuenger/Tierwriter/blob/9abbb466a296ae63d2cabd3b20eebf0fafaae6d2/documentation/Mockup.png" width="300"> 
+<img alt="Mockup of tiered structure" src="https://github.com/jyuenger/Tierwriter/blob/9abbb466a296ae63d2cabd3b20eebf0fafaae6d2/documentation/Mockup.png" width="300"> 
 
 # What You'll Need:
 - A controller ([Stampy RP2040](https://keeb.io/products/stampy-rp2040-usb-c-controller-board-for-handwiring)) and firmware (UF2 files in the Firmware/QMK and Firmware/VIAL folders)
@@ -44,7 +44,7 @@ Mockup of tiered structure
 You'll have a couple leftover switches, diodes, and Amoebas; the 70 count factors in spares.
 
 # Default Keymap:
-<img src="https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Build%20Guide%20Illustrations/Default%20Keymap.png" width=480>
+<img alt="Default keymap" src="https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Build%20Guide%20Illustrations/Default%20Keymap.png" width=480>
 
 # Provisional Build Guide
 
@@ -86,7 +86,7 @@ These instructions assume you're using [Amoeba 1u PCBs](https://keeb.io/products
 
 1. Using the [wiring diagram](https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Wiring/Stampy%20RP2040%20Matrix%20Wiring.png) as a guide, solder the end of each row and column to its appropriate IO pin on the Stampy. Row 0 will be GP14, and columns 0-2 will be GP11, GP10, and GP15 respectively. (These assignments are built into the Stampy.)
 
-<img src="https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Wiring/Stampy.png" width=480>
+<img alt="Stampy RP2040 schematic" src="https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Wiring/Stampy.png" width=480>
 
 ## Flashing the Firmware
 
