@@ -1,4 +1,4 @@
-<img src="https://github.com/jyuenger/Tierwriter/blob/main/Miscellaneous/Logo.png" width=480>
+<img alt="Tierwriter Logo" src="https://github.com/jyuenger/Tierwriter/blob/main/Miscellaneous/Logo.png" width=480>
 
 A tiered, typewriter-style, handwired 60% mechanical keyboard with arrows, 7u/8u spacebar, dual MX/Alps support, and modified ISO
 
