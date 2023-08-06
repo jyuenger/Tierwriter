@@ -58,11 +58,11 @@ These instructions assume you're using Amoeba 1u PCBs on every key, and a Stampy
 
 ### Column Wiring
 
-1. Solder the columns of the Amoebas together, creating 15 soldered columns (ignoring the three switches on the Stampy). The Grave/Tilde key at the end of Row 1 is its own column, and won't be soldered to any other keys in this step. Consult the wiring diagram to make sure each column runs between rows correctly.
+1. Solder the columns of the Amoebas together, creating 15 soldered columns (ignoring the three switches on the Stampy). The Grave/Tilde key at the end of Row 1 is its own column, and won't be soldered to any other keys in this step. [Consult the wiring diagram](https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Wiring/Stampy%20RP2040%20Matrix%20Wiring.png) to make sure each column runs between rows correctly.
 
 ### Wiring the Row and Column Matrix to the Stampy PCB
 
-1. Using the wiring diagram as a guide, solder the end of each row and column to its appropriate IO pin on the Stampy. Row 0 will be GP14, and columns 0-2 will be GP11, GP10, and GP15 respectively.
+1. Using the [wiring diagram](https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Wiring/Stampy%20RP2040%20Matrix%20Wiring.png) as a guide, solder the end of each row and column to its appropriate IO pin on the Stampy. Row 0 will be GP14, and columns 0-2 will be GP11, GP10, and GP15 respectively.
 
 ### Flashing the Firmware
 
