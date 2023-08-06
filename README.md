@@ -58,7 +58,7 @@ These instructions assume you're using [Amoeba 1u PCBs](https://keeb.io/products
 
 ### Column Wiring
 
-1. [Solder the columns of the Amoebas together](https://github.com/mtl/keyboard-pcbs/blob/master/svg/instructions.svg), creating 15 soldered columns (ignoring the three switches on the Stampy). The Grave/Tilde key at the end of Row 1 is its own column, and won't be soldered to any other keys in this step. [Consult the wiring diagram](https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Wiring/Stampy%20RP2040%20Matrix%20Wiring.png) to make sure each column runs between rows correctly.
+1. [Solder the columns of the Amoebas together](https://github.com/mtl/keyboard-pcbs/blob/master/svg/instructions.svg), creating 15 soldered columns (ignoring the three switches on the Stampy). The Grave/Tilde key at the end of Row 1, opposite the Stampy, is its own column, and won't be soldered to any other keys in this step. [Consult the wiring diagram](https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Wiring/Stampy%20RP2040%20Matrix%20Wiring.png) to make sure each column runs between rows correctly.
 
 ### Wiring the Row and Column Matrix to the Stampy PCB
 
