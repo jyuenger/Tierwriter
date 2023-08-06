@@ -70,7 +70,7 @@ These instructions assume you're using Amoeba 1u PCBs on every key, and a Stampy
 2. Press and hold the reset button on the Stampy for one second, and release.
 3. Your OS should mount the Stampy as a drive.
 4. Drag the UF2 QMK or VIAL firmware file onto the Stampy's drive.
-5. The Stampy will reset itself. Test the keys to make sure each key is working properly, according to the default layout diagram.
+5. The Stampy will reset itself. Test the keys to make sure each key is working properly, according to the [default layout diagram](https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Build%20Guide%20Illustrations/Default%20Keymap.png).
 
 ### Attaching the Optional Base and Rear Wall
 
