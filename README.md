@@ -27,6 +27,10 @@ Mockup of tiered structure
 
 <img alt="Mockup of tiered structure" src="https://github.com/jyuenger/Tierwriter/blob/9abbb466a296ae63d2cabd3b20eebf0fafaae6d2/documentation/Mockup.png" width="300"> 
 
+Default Keymap
+
+<img alt="Default keymap" src="https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Build%20Guide%20Illustrations/Default%20Keymap.png" width=480>
+
 # What You'll Need:
 - A controller ([Stampy RP2040](https://keeb.io/products/stampy-rp2040-usb-c-controller-board-for-handwiring)) and firmware (UF2 files in the Firmware/QMK and Firmware/VIAL folders)
 - Five custom 1.5mm thick aluminum switchplates, one for each row (AI files for lasercutting in the Plates/MX and Plates/ALPS-MX Combo folders)
@@ -48,9 +52,6 @@ Mockup of tiered structure
 - PLA rear wall (STL file for 3D printing in the STLs folder)
 
 You'll have a couple leftover switches, diodes, and Amoebas; the 70 count factors in spares.
-
-# Default Keymap:
-<img alt="Default keymap" src="https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Build%20Guide%20Illustrations/Default%20Keymap.png" width=480>
 
 # Provisional Build Guide
 
