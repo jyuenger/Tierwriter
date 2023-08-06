@@ -57,11 +57,11 @@ You'll have a couple leftover switches, diodes, and Amoebas; the 70 count factor
 
 ## Caveats
 
-These instructions assume you're using [Amoeba 1u PCBs](https://keeb.io/products/amoeba-single-switch-pcbs) on every key, a [Stampy RP2040 PCB](https://keeb.io/products/stampy-rp2040-usb-c-controller-board-for-handwiring). and pass-through diodes. Minor changes will be necessary if not, but the basics of the build should remain the same. Note that you can use the Amoebas with Alps switches as well as MX!
+These instructions assume you're using [Amoeba 1u PCBs](https://keeb.io/products/amoeba-single-switch-pcbs) on every key, a [Stampy RP2040 PCB](https://keeb.io/products/stampy-rp2040-usb-c-controller-board-for-handwiring). and through-hole diodes. Minor changes will be necessary if not, but the basics of the build should remain the same. Note that you can use the Amoebas with Alps switches as well as MX!
 
 ## Attaching and Soldering Diodes
 
-1. On each Amoeba, insert a 1N4148 diode into underside in the [indicated location](https://github.com/mtl/keyboard-pcbs/blob/master/svg/instructions.svg), with the diode's black bar on the same side as the bar printed on the Amoeba.
+1. On each Amoeba, insert a 1N4148 through-hole diode into underside in the [indicated location](https://github.com/mtl/keyboard-pcbs/blob/master/svg/instructions.svg), with the diode's black bar on the same side as the bar printed on the Amoeba.
 2. Solder both ends of the diode onto the Amoeba, and trim the diode's legs if necessary.
 
 ## Assembling the Switchplates
