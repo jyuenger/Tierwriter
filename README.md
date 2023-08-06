@@ -64,6 +64,8 @@ These instructions assume you're using [Amoeba 1u PCBs](https://keeb.io/products
 
 1. Using the [wiring diagram](https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Wiring/Stampy%20RP2040%20Matrix%20Wiring.png) as a guide, solder the end of each row and column to its appropriate IO pin on the Stampy. Row 0 will be GP14, and columns 0-2 will be GP11, GP10, and GP15 respectively.
 
+<img src="https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Wiring/Stampy.png" width=480>
+
 ### Flashing the Firmware
 
 1. Connect the Stampy to your computer using its USB-C port.
