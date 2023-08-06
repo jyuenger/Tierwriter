@@ -6,7 +6,9 @@ A tiered, typewriter-style, handwired 60% mechanical keyboard with arrows, 7u/8u
 
 ## FULL BUILD GUIDE AND PROTOTYPE PHOTOS COMING SEPTEMBER 2023. SEE BELOW FOR PROVISIONAL BUILD GUIDE WITH NO PHOTOS.
 
-## Things You'll Need:
+Ever want a keyboard that's actually tiered, like an old-school typewriter, so that each row sits slightly above the row in front of it? Not being able to find anything like this, I set out to design my own. Despite the complexity of the build, this is a very basic, no-frills board. No LEDs, no layers, no fuss. (Though you're welcome to modify it to include all of these things.)
+
+## What You'll Need:
 - A controller ([Stampy RP2040](https://keeb.io/products/stampy-rp2040-usb-c-controller-board-for-handwiring)) and firmware (UF2 files in the Firmware/QMK and Firmware/VIAL folders)
 - Five custom 1.5mm thick aluminum switchplates, one for each row (AI files for lasercutting in the Plates/MX and Plates/ALPS-MX Combo folders)
 - Two stepped PLA support wedges (STL file for 3D printing in the STLs folder)
