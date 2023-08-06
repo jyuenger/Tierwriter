@@ -10,9 +10,9 @@ A tiered, typewriter-style, handwired 60% mechanical keyboard with arrows, 7u/8u
 
 Ever want a keyboard that's actually tiered, like an old-school typewriter, so that each row sits slightly above the row in front of it? Not being able to find anything like this, I set out to design my own. Despite the complexity of the build, this is a very basic, no-frills board. No LEDs, no layers, no fuss. (Though you're welcome to modify it to include all of these things.)
 
-The design principles were to keep it close-ish to a vintage typewriter in terms of the layout, and to accommodate (but not require) vintage parts. So it's a 60% layout with a minimal bottom row, big spacebar, and small mods squished out to the edges of the board. It can use Alps switches (with the provided Alps/MX combo plates), and fit a spacebar up to 8u long. 
+The design principles were to keep it close-ish to a vintage typewriter in terms of the layout, and to accommodate (but not require) vintage parts. So it's a 60% layout with a minimalist bottom row, big spacebar, and small mods squished out to the edges of the board. It can use vintage Alps switches (with the provided Alps/MX combo plates), and fit a spacebar up to 8u long. 
 
-I'm normally a UK ISO user. While the Enter key here can't span two rows, there are extra alpha keys for hash, at, negation, and non-US backslash, as well as an ISO left Shift. For other langauges, the Caps Lock key can be remapped as another alpha.
+I'm normally a UK ISO user. While the Enter key here can't span two rows, there are alpha keys for hash, at, grave/negation, and non-US backslash, as well as an ISO left Shift. For other langauges that use ISO layout, the Caps Lock key can be remapped as an additional alpha.
 
 Finally, there are arrows. I can't live without dedicated arrow keys.
 
@@ -40,7 +40,7 @@ Finally, there are arrows. I can't live without dedicated arrow keys.
 
 ### Caveats
 
-These instructions assume you're using [Amoeba 1u PCBs](https://keeb.io/products/amoeba-single-switch-pcbs) on every key, a [Stampy RP2040 PCB](https://keeb.io/products/stampy-rp2040-usb-c-controller-board-for-handwiring). and pass-through diodes. Minor changes will be necessary if not, but the basics of the build should remain the same.
+These instructions assume you're using [Amoeba 1u PCBs](https://keeb.io/products/amoeba-single-switch-pcbs) on every key, a [Stampy RP2040 PCB](https://keeb.io/products/stampy-rp2040-usb-c-controller-board-for-handwiring). and pass-through diodes. Minor changes will be necessary if not, but the basics of the build should remain the same. Note that you can use the Amoebas with Alps switches as well as MX!
 
 ### Attaching and Soldering Diodes
 
