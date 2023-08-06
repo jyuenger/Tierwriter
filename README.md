@@ -14,6 +14,8 @@ I'm normally a UK ISO user. While the Enter key here can't span two rows, there 
 
 Finally, there are arrows. I can't live without dedicated arrow keys.
 
+## Illustrations
+
 Exploded parts diagram
 
 <img src="https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Build%20Guide%20Illustrations/Diagram.png" width="480">
