@@ -24,7 +24,7 @@ A tiered, typewriter-style, handwired 60% mechanical keyboard with arrows, 7u/8u
 - Optional: PLA Rear wall (STL file for 3D printing in the STLs folder)
 
 ## Default Keymap:
-<img src="https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Build%20Guide%20Illustrations/Default%20Keymap.png" width=300>
+<img src="https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Build%20Guide%20Illustrations/Default%20Keymap.png" width=480>
 
 ## Provisional Build Guide
 
