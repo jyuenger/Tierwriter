@@ -28,7 +28,7 @@ A tiered, typewriter-style, handwired 60% mechanical keyboard with arrows, 7u/8u
 
 ## Provisional Build Guide
 
-These instructions assume you're using [Amoeba 1u PCBs](https://keeb.io/products/amoeba-single-switch-pcbs) on every key, and a [Stampy RP2040 PCB](https://keeb.io/products/stampy-rp2040-usb-c-controller-board-for-handwiring).
+These instructions assume you're using [Amoeba 1u PCBs](https://keeb.io/products/amoeba-single-switch-pcbs) on every key, a [Stampy RP2040 PCB](https://keeb.io/products/stampy-rp2040-usb-c-controller-board-for-handwiring). and pass-through diodes. Minor changes will be necessary if not, but the basics should remain the same.
 
 ### Attaching and Soldering Diodes
 
