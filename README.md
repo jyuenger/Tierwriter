@@ -30,8 +30,10 @@ Finally, there are arrows. I can't live without dedicated arrow keys.
 - One clip-in plate mounted 7u or 8u stabilizer for the spacebar ([8U stabilizers available at SPRiT](https://www.spritdesigns.com/product-page/stabilizers))
 - ***Optional but Recommended***: 70 [1u Amoeba PCBs](https://keeb.io/products/amoeba-single-switch-pcbs), ([Ameoba wiring instructions here](https://github.com/mtl/keyboard-pcbs/blob/master/svg/instructions.svg)). These will work with MX or Alps switches
 - Optional: Five decorative 3mm acrylic top plates, one for each row (AI files for lasercutting in the Plates/Tops folder; will fit MX or Alps build)
-- Optional: 3mm acrylic base plate (AI file for lasercutting in the Plates/Bottom Plate folder)
+- Optional: 3mm thick acrylic base plate (AI file for lasercutting in the Plates/Bottom Plate folder)
 - Optional: PLA rear wall (STL file for 3D printing in the STLs folder)
+
+You'll have a couple leftover switches, diodes, and Amoebas; the 70 count factors in spares.
 
 ## Default Keymap:
 <img src="https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Build%20Guide%20Illustrations/Default%20Keymap.png" width=480>
