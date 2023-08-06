@@ -29,4 +29,3 @@ A tiered, typewriter-style, handwired 60% mechanical keyboard with arrows, 7u/8u
 
 ## To Do:
 - Write build guide
-- Design decorative/protective exterior casing
