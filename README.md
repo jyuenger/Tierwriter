@@ -2,8 +2,6 @@
 
 A tiered, typewriter-style, handwired 60% mechanical keyboard with arrows, 7u/8u spacebar, dual MX/Alps support, and modified ISO
 
-<img src="https://github.com/jyuenger/Tierwriter/blob/9abbb466a296ae63d2cabd3b20eebf0fafaae6d2/documentation/Mockup.png" width="300"> <img src="https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Build%20Guide%20Illustrations/Diagram.png" width="480">
-
 ## FULL BUILD GUIDE AND PROTOTYPE PHOTOS COMING SEPTEMBER 2023. SEE BELOW FOR PROVISIONAL BUILD GUIDE WITH NO PHOTOS.
 
 # Introduction
@@ -15,6 +13,8 @@ The design principles were to keep it close-ish to a vintage typewriter in terms
 I'm normally a UK ISO user. While the Enter key here can't span two rows, there are alpha keys for hash, grave/negation, and non-US backslash (on row 1), as well as an ISO left Shift. For other langauges that use ISO layout, the 1u R4 Caps Lock key can be remapped as an additional alpha.
 
 Finally, there are arrows. I can't live without dedicated arrow keys.
+
+<img src="https://github.com/jyuenger/Tierwriter/blob/9abbb466a296ae63d2cabd3b20eebf0fafaae6d2/documentation/Mockup.png" width="300"> <img src="https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Build%20Guide%20Illustrations/Diagram.png" width="480">
 
 # What You'll Need:
 - A controller ([Stampy RP2040](https://keeb.io/products/stampy-rp2040-usb-c-controller-board-for-handwiring)) and firmware (UF2 files in the Firmware/QMK and Firmware/VIAL folders)
