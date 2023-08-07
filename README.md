@@ -107,6 +107,7 @@ These instructions assume you're using [Amoeba 1u PCBs](https://keeb.io/products
 ## Editing the Keymap
 
 1. If you've flashed the board with the VIAL firmware, just plug the board in, launch VIAL, and it should immediately be recognized and display a live keymap of the current layout. The default layout is barebones, but you can use VIAL to add additional layers, and change any key's behavior on the fly.
+2. For QMK, you'll need to modify keymap.c and recompile the firmware.
 
 ## Attaching the Optional Base and Rear Wall
 
