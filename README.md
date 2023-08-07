@@ -114,7 +114,7 @@ These instructions assume you're using [Amoeba 1u PCBs](https://keeb.io/products
 
 Note that the Outer Shell is not compatible with the rear wall and base; omit or remove those if using the outer shell.
 
-Tierwriter outer casing originally by [fresnelTHz](https://cults3d.com/en/users/fresnelTHz/3d-models)
+Outer casing model originally by [fresnelTHz](https://cults3d.com/en/users/fresnelTHz/3d-models)
 
 Made available under [CC BY](https://creativecommons.org/licenses/by/4.0/) attribution license
 
