@@ -108,3 +108,12 @@ These instructions assume you're using [Amoeba 1u PCBs](https://keeb.io/products
 1. Disconnect the keyboard, and screw the bottom plate to the two tiered support wedges, with the logo facing down (readable when looking at the underside of the assembled keyboard).
 2. Heat set threaded inserts into each of the screw holes on the rear wall.
 3. Screw the rear wall to the base plate, between the two tiered support wedges. The notched end should go underneath the Stampy to provide extra room.
+
+## Using the Outer Shell (based on an original design by fresnelTHZ)
+
+Note that the Outer Shell is not compatible with the rear wall and base; omit or remove those if using the outer shell.
+
+1. 3D print the outer shell STL (in the STLs folder).
+2. Run a USB-C cable through the hole in the right rear of the outer shell, to the cut-out area in the front.
+3. Place the entire Tierwriter assembly (the completed Tierwriter including stepped support wedges and switchplates) partially into the front cavity, so the USB-C cable reaches it.
+4. Connect the USB-C cable to the Stampy's USB-C port, and slide the assembly as far back as it will go against the rear wall of the front cavity.
