@@ -1,5 +1,8 @@
 {
     "lighting": "none",
+	"vendorId": "0xFEED",
+	"name": "tierwriter",
+	"productId": "0x0001",
     "matrix": {
         "rows": 5,
         "cols": 15
