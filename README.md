@@ -104,6 +104,10 @@ These instructions assume you're using [Amoeba 1u PCBs](https://keeb.io/products
 4. Drag either the UF2 QMK or VIAL firmware file (located here under Firmware/QMK or Firmware/VIAL) onto the Stampy's drive.
 5. The Stampy will reset itself. Test the keys to make sure each key is working properly, according to the [default layout diagram](https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Build%20Guide%20Illustrations/Default%20Keymap.png).
 
+## Editing the Keymap
+
+1. If you've flashed the board with the VIAL firmware, just plug the board in, launch VIAL, and it should immediately be recognized and display a live keymap of the current layout. The default layout is barebones, but you can use VIAL to add additional layers, and change any key's behavior on the fly.
+
 ## Attaching the Optional Base and Rear Wall
 
 1. Disconnect the keyboard, and screw the bottom plate to the two tiered support wedges, with the logo facing down (readable when looking at the underside of the assembled keyboard).
