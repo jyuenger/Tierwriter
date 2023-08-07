@@ -115,7 +115,7 @@ Note that the Outer Shell is not compatible with the rear wall and base; omit or
 
 Tierwriter outer casing originally by [fresnelTHz](https://cults3d.com/en/users/fresnelTHz/3d-models)
 
-Made available under CC BY - Attribution license
+Made available under [CC BY](https://creativecommons.org/licenses/by/4.0/) attribution license
 
 1. 3D print the outer shell STL (in the STLs folder).
 2. Run a USB-C cable through the hole in the right rear of the outer shell, to the cut-out area in the front.
