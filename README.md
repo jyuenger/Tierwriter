@@ -19,7 +19,7 @@ Finally, there are arrows. I can't live without dedicated arrow keys.
 
 ## Illustrations
 
-Exploded parts diagram
+Exploded parts diagram for a basic build, without the outer shell
 
 <img alt="Exploded parts diagram" src="https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Build%20Guide%20Illustrations/Diagram.png" width="480">
 
