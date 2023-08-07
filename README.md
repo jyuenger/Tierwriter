@@ -50,6 +50,7 @@ Default Keymap
 - Five decorative 3mm thick acrylic top plates, one for each row (AI files for lasercutting in the Plates/Tops folder; will fit MX or Alps build)
 - 3mm thick acrylic base plate (AI file for lasercutting in the Plates/Bottom Plate folder)
 - PLA rear wall (STL file for 3D printing in the STLs folder)
+- Outer shell (based upon [a design](https://cults3d.com/en/3d-model/gadget/mini-typewriter-phone-stand) by fresnelTHz) (STL file for 3D pringing in the STLs folder). Note that if you choose to use the outer shell, you must omit the base plate and rear wall to fit.
 
 You'll have a couple leftover switches, diodes, and Amoebas; the 70 count factors in spares.
 
