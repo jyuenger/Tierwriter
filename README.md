@@ -65,7 +65,7 @@ These instructions assume you're using [Amoeba 1u PCBs](https://keeb.io/products
 1. On each Amoeba, insert a 1N4148 through-hole diode into underside in the [indicated location](https://github.com/mtl/keyboard-pcbs/blob/master/svg/instructions.svg), with the diode's black bar on the same side as the bar printed on the Amoeba.
 2. Solder both ends of the diode onto the Amoeba, and trim the diode's legs if necessary.
 
-<img alt="Through hole diodes inserted into a row of Amoebas" src="https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Build%20Guide%20Illustrations/Diodes.png" width=480">
+<img alt="Through hole diodes inserted into a row of Amoebas"  src="https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Build%20Guide%20Illustrations/Diodes.png" width="480">
 
 ## Assembling the Switchplates
 
