@@ -77,7 +77,7 @@ These instructions assume you're using [Amoeba 1u PCBs](https://keeb.io/products
 
 <img alt="Switches mounted in plate" src="https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Build%20Guide%20Illustrations/Switches.png" width="480">
 
-3. Attach Amoeba PCBs to the underside of each switch in rows 1-4 (except the ones soldered to the Stampy), and solder the switches to their individual Amoebas.
+3. Attach Amoeba PCBs to the underside of each switch in rows 1-4 (except the ones soldered to the Stampy), and solder the switches to their individual Amoebas. You may need to break the Amoebas into individual 1u boards if leaving them together warps the plate.
 4. For Row 5, clip in the 7u or 8u stabilizer first, then insert the spacebar switch into the switchplate's spacebar hole. Insert the remaining switches, and attach and solder the Amoeba PCBs underneath each.
 
 ## Assembling the Tiered Support Wedges
@@ -87,7 +87,7 @@ These instructions assume you're using [Amoeba 1u PCBs](https://keeb.io/products
 
 ## Row Wiring
 
-1. For each switchplate, [solder the Amoeba PCBs together into a row.](https://github.com/mtl/keyboard-pcbs/blob/master/svg/instructions.svg). (Ignore the switches soldered into the Stampy.) You may need to snap the Amoebas apart into individual 1u boards if the plate bends.
+1. For each switchplate, [solder the Amoeba PCBs together into a row.](https://github.com/mtl/keyboard-pcbs/blob/master/svg/instructions.svg). (Ignore the switches soldered into the Stampy.)
 
 <img alt="Row 0 wiring" src="https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Build%20Guide%20Illustrations/Row0.png" width="480">
 
