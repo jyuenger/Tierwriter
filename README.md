@@ -47,8 +47,8 @@ Default Keymap
 ## Optional Parts
 
 - ***Recommended***: 70 [1u Amoeba PCBs](https://keeb.io/products/amoeba-single-switch-pcbs), ([Ameoba wiring instructions here](https://github.com/mtl/keyboard-pcbs/blob/master/svg/instructions.svg)). These will work with MX or Alps switches. The build guide assumes you're using these
-- Five decorative 3mm thick acrylic top plates, one for each row (AI files for lasercutting in the Plates/Tops folder; will fit MX or Alps build)
-- 3mm thick acrylic base plate (AI file for lasercutting in the Plates/Bottom Plate folder)
+- Five decorative 1.5-3mm thick acrylic top plates, one for each row (AI files for lasercutting in the Plates/Tops folder; will fit MX or Alps build)
+- 1.5-3mm thick acrylic base plate (AI file for lasercutting in the Plates/Bottom Plate folder)
 - PLA rear wall (STL file for 3D printing in the STLs folder)
 - Outer shell (based upon [a design](https://cults3d.com/en/3d-model/gadget/mini-typewriter-phone-stand) by fresnelTHz) (STL file for 3D pringing in the STLs folder). Note that if you choose to use the outer shell, you must omit the base plate and rear wall to fit.
 
@@ -81,7 +81,7 @@ These instructions assume you're using [Amoeba 1u PCBs](https://keeb.io/products
 
 ## Row Wiring
 
-1. For each assembled switchplate, [solder the Amoeba PCBs together horizontally](https://github.com/mtl/keyboard-pcbs/blob/master/svg/instructions.svg) into their rows. (Ignore the switches soldered into the Stampy.)
+1. For each assembled switchplate, [solder the Amoeba PCBs together horizontally](https://github.com/mtl/keyboard-pcbs/blob/master/svg/instructions.svg) into their rows. (Ignore the switches soldered into the Stampy.) You may need to snap the Amoebas apart inton individual pieces if the plate bends.
 
 ## Attaching Rows to the Tiered Support Wedges
 
