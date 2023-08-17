@@ -87,7 +87,7 @@ These instructions assume you're using [Amoeba 1u PCBs](https://keeb.io/products
 
 ## Row Wiring
 
-1. For each assembled switchplate, [solder the Amoeba PCBs together horizontally](https://github.com/mtl/keyboard-pcbs/blob/master/svg/instructions.svg) into their rows. (Ignore the switches soldered into the Stampy.) You may need to snap the Amoebas apart inton individual pieces if the plate bends.
+1. For each switchplate, [solder the Amoeba PCBs to every switch](https://github.com/mtl/keyboard-pcbs/blob/master/svg/instructions.svg). (Ignore the switches soldered into the Stampy.) You may need to snap the Amoebas apart into individual 1u boards if the plate bends.
 
 <img alt="Row 0 wiring" src="https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Build%20Guide%20Illustrations/Row0.png" width="480">
 
