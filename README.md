@@ -71,6 +71,9 @@ These instructions assume you're using [Amoeba 1u PCBs](https://keeb.io/products
 
 1. On the far left end of the row 1 switchplate, insert three switches into the holes, and then attach the Stampy PCB underneath them, with the USB connector facing north. Solder the Stampy to the three switches (Esc, 1, and 2).
 2. Continue inserting switches into the remaining holes on row 1, and do the same for rows 2-4.
+
+<img alt="Switches mounted in plate" src="https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Build%20Guide%20Illustrations/Switches.png" width="480">
+
 3. Attach Amoeba PCBs to the underside of each switch in rows 1-4 (except the ones soldered to the Stampy), and solder the switches to their individual Amoebas.
 4. For Row 5, clip in the 7u or 8u stabilizer first, then insert the spacebar switch into the switchplate's spacebar hole. Insert the remaining switches, and attach and solder the Amoeba PCBs underneath each.
 
