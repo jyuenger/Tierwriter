@@ -70,6 +70,9 @@ These instructions assume you're using [Amoeba 1u PCBs](https://keeb.io/products
 ## Assembling the Switchplates
 
 1. On the far left end of the row 1 switchplate, insert three switches into the holes, and then attach the Stampy PCB underneath them, with the USB connector facing north. Solder the Stampy to the three switches (Esc, 1, and 2).
+
+<img alt="Stampy mounted under the Esc/1/2 keys on row 0" src="https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Build%20Guide%20Illustrations/Controller.png" width="480">
+
 2. Continue inserting switches into the remaining holes on row 1, and do the same for rows 2-4.
 
 <img alt="Switches mounted in plate" src="https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Build%20Guide%20Illustrations/Switches.png" width="480">
@@ -85,6 +88,8 @@ These instructions assume you're using [Amoeba 1u PCBs](https://keeb.io/products
 ## Row Wiring
 
 1. For each assembled switchplate, [solder the Amoeba PCBs together horizontally](https://github.com/mtl/keyboard-pcbs/blob/master/svg/instructions.svg) into their rows. (Ignore the switches soldered into the Stampy.) You may need to snap the Amoebas apart inton individual pieces if the plate bends.
+
+<img alt="Row 0 wiring" src="https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Build%20Guide%20Illustrations/Row0.png" width="480">
 
 ## Attaching Rows to the Tiered Support Wedges
 
