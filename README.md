@@ -121,7 +121,7 @@ These instructions assume you're using [Amoeba 1u PCBs](https://keeb.io/products
 
 ## Attaching the Optional Base and Rear Wall
 
-1. Disconnect the keyboard, and screw the bottom plate to the two tiered support wedges, with the logo facing down (readable when looking at the underside of the assembled keyboard).
+1. Disconnect the keyboard, and screw the bottom plate to the two tiered support wedges.
 2. Heat set threaded inserts into each of the screw holes on the rear wall.
 3. Screw the rear wall to the base plate, between the two tiered support wedges. The notched end should go underneath the Stampy to provide extra room.
 
