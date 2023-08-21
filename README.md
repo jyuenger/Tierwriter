@@ -129,5 +129,5 @@ The base plate, with Pi mounting holes in the left rear
 <img alt="Base plate" src="https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Build%20Guide%20Illustrations/Base.png" width="480">
 
 
-3. Optionally, mount a Pi 4 in the open area in the rear left using M2.5 screws. The Pi's USB ports should face to the left of the board during normal usage, with the power and HDMI ports facing the rear.
-4. Use a short USB-C to USB-A cable to connect the keyboard's controller to the Pi.
+3. You can mount a Raspberry Pi 4 in the open area in the rear left, using M2.5 screws. The Pi's USB ports should face to the left of the board during normal usage, with the power and HDMI ports facing the rear.
+4. Use a short USB-C to USB-A cable to connect the keyboard's USB port to one of the Pi's.
