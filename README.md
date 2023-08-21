@@ -1,5 +1,7 @@
 <img alt="Tierwriter Logo" src="https://github.com/jyuenger/Tierwriter/blob/main/Miscellaneous/Logo.png" width=480>
 
+<img src="https://github.com/jyuenger/Tierwriter/blob/main/Miscellaneous/Renders/01.png" width=200> 
+
 A tiered, typewriter-inspired, handwired 60% mechanical keyboard with arrows, 7u/8u spacebar, dual MX/Alps support, Pi 4 mounting holes, and modified ISO layout
 
 ## FULL BUILD GUIDE AND PROTOTYPE PHOTOS COMING SEPTEMBER 2023.
