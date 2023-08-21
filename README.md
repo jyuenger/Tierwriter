@@ -26,7 +26,7 @@ Default Keymap
 - Five custom 1.5mm thick aluminum switchplates, one for each row (AI files for lasercutting in the Plates/MX and Plates/ALPS-MX Combo folders)
 - The Rear and Side Assembly (STL file for 3D printing in the STLs folder)
 - Ten M2 10mm screws (six more if you want to screw the Rear and Side Assembly to the base plate for mounting a Pi)
-- Ten M2 threaded inserts to heat-set into the holes in the support wedges (six more if you want to screw the Rear and Side Assembly to the base plate for mounting a Pi)
+- Ten M2 threaded inserts (six more if you want to screw the Rear and Side Assembly to the base plate for mounting a Pi)
 - An MX or Alps keycap set with the following ***nonstandard keys***: 1.5u R2 backspace, 1.5u R3 Enter. You'll also need a 7U or 8U spacebar, and any extra 1u R4 key that you'd like to use as a Caps Lock
 - 70 MX or Alps switches
 - 70 1N4148 through-hole diodes
@@ -39,7 +39,7 @@ Default Keymap
 - ***Recommended***: 70 [1u Amoeba PCBs](https://keeb.io/products/amoeba-single-switch-pcbs), ([Ameoba wiring instructions here](https://github.com/mtl/keyboard-pcbs/blob/master/svg/instructions.svg)). These will work with MX or Alps switches. The build guide assumes you're using these
 - Five decorative 1.5-3mm thick acrylic top plates, one for each row (AI files for lasercutting in the Plates/Tops folder; will fit MX or Alps build)
 - 3mm thick base plate for mounting a Pi 4 (AI file for lasercutting in the Plates/Bottom Plate folder)
-- Four M2.5 screws for mounting the Pi 4.
+- Four M2.5 screws for mounting the Pi 4
 
 You'll have a few leftover switches, diodes, and Amoebas; the 70 count factors in spares.
 
@@ -71,7 +71,7 @@ These instructions assume you're using [Amoeba 1u PCBs](https://keeb.io/products
 
 ## Building the Rear and Side Assembly
 
-1. Using a soldering iron, heat set a threaded insert into each screw hole on the upper side of both tiered sides.
+1. Using a soldering iron, heat set a threaded insert into each screw hole on the upper side of the Rear and Side Assembly.
 2. If you're attaching the optional base plate, also heat set threaded inserts into the screw holes on the flat underwide of the assembly.
 
 ## Row Wiring
@@ -82,8 +82,8 @@ These instructions assume you're using [Amoeba 1u PCBs](https://keeb.io/products
 
 ## Attaching Rows to the Rear and Side Assembly
 
-1. Screw in each row's switchplate into the appropriate tiers on each end of the Rear and Side Assembly. Row 1 will be on the highest pair of tiers, the farthest back from you, with the USB port on the Stampy facing away from you, though the notch in the rear wall. Rows 2 and 3 are identical. Row 5 will be closest to you, on the lowest pair of tiers.
-2. Optionally, place the decorative top plates on top of each switchplate before screwing them to the support wedges.
+1. Screw in each row's switchplate into the appropriate tier on the Rear and Side Assembly. Row 1 will be on the highest tier (the farthest back from you), with the USB port on the Stampy facing away from you, though the notch in the rear wall. Rows 2 and 3 are identical. Row 5 will be closest to you, on the lowest tier.
+2. Optionally, place the decorative top plates on top of each switchplate before screwing them to the assembly.
 
 ## Column Wiring
 
