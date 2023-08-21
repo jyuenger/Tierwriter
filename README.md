@@ -39,6 +39,7 @@ Default Keymap
 - ***Recommended***: 70 [1u Amoeba PCBs](https://keeb.io/products/amoeba-single-switch-pcbs), ([Ameoba wiring instructions here](https://github.com/mtl/keyboard-pcbs/blob/master/svg/instructions.svg)). These will work with MX or Alps switches. The build guide assumes you're using these
 - Five decorative 1.5-3mm thick acrylic top plates, one for each row (AI files for lasercutting in the Plates/Tops folder; will fit MX or Alps build)
 - 3mm thick base plate for mounting a Pi 4 (AI file for lasercutting in the Plates/Bottom Plate folder)
+- Four M2.5 screws for mounting the Pi 4.
 
 You'll have a few leftover switches, diodes, and Amoebas; the 70 count factors in spares.
 
