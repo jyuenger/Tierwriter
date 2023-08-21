@@ -74,6 +74,11 @@ These instructions assume you're using [Amoeba 1u PCBs](https://keeb.io/products
 1. Using a soldering iron, heat set a threaded insert into each screw hole on the upper side of the Rear and Side Assembly.
 2. If you're attaching the optional base plate, also heat set threaded inserts into the screw holes on the flat underwide of the assembly.
 
+The assembly, with mounting holes for the row plates
+
+<img alt="Side and rear assembly" src="https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Build%20Guide%20Illustrations/Assembly.png" width="480">
+
+
 ## Row Wiring
 
 1. For each switchplate, [solder the Amoeba PCBs together into a row.](https://github.com/mtl/keyboard-pcbs/blob/master/svg/instructions.svg). (Ignore the switches soldered into the Stampy.)
