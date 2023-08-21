@@ -111,6 +111,10 @@ These instructions assume you're using [Amoeba 1u PCBs](https://keeb.io/products
 ## Attaching the Optional Base
 
 1. Turn the completed keyboard over gently, so the caps are facing down, and you're looking directly at the underside, with the threaded inserts facing towards you.
-2. Align the screw slots in the bottom plate with the assembly's threaded inserts, and install the screws in each to conenct them.
+2. Align the screw slots in the bottom plate with the assembly's threaded inserts, and install the screws in each to connect them.
+
+The base plate
+<img alt="Base plate" src="https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Build%20Guide%20Illustrations/Base.png" width="480">
+
 3. Optionally, mount a Pi 4 in the open area in the rear left using M2.5 screws. The Pi's USB ports should face to the left of the board during normal usage, with the power and HDMI ports facing the rear.
 4. Use a short USB-C to USB-A cable to connect the keyboard's controller to the Pi.
