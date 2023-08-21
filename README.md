@@ -16,9 +16,11 @@ Ever want a keyboard that's actually tiered, like an old-school typewriter, so t
 
 The design principles were to keep it close-ish to a vintage typewriter in terms of the layout, and to accommodate (but not require) vintage parts. So it sports a [60% layout with a minimalist bottom row](https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Build%20Guide%20Illustrations/Default%20Keymap.png), big spacebar, and small mods squished out to the edges of the board. It can use vintage Alps switches (with the provided Alps/MX combo plates), and fit a spacebar up to 8u long. 
 
+The internal space created by the tiers gave me the idea to support mounting a Raspberry Pi 4 inside.
+
 I'm normally a UK ISO user. While the Enter key here can't span two rows, there are alpha keys for hash, grave/negation, and non-US backslash (on row 1), as well as an ISO left Shift. For other langauges that use ISO layout, the 1u R4 Caps Lock key can be remapped as an additional alpha.
 
-Finally, there are arrows. I can't live without dedicated arrow keys.
+Finally, there are arrow keys. I can't live without dedicated arrow keys.
 
 Default Keymap
 
