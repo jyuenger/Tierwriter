@@ -79,7 +79,7 @@ These instructions assume you're using [Amoeba 1u PCBs](https://keeb.io/products
 1. Using a soldering iron, heat set a threaded insert into each screw hole on the upper side of the Rear and Side Assembly.
 2. If you're attaching the optional base plate, also heat set threaded inserts into the screw holes on the flat underwide of the assembly.
 
-The assembly, with mounting holes for the row plates. (Render is old, and may vary slightly from the current model.)
+The assembly, with mounting holes for the row plates.
 
 <img alt="Side and rear assembly" src="https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Build%20Guide%20Illustrations/Assembly.png" width="480">
 
