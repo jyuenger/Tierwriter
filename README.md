@@ -30,8 +30,8 @@ Default Keymap
 - A controller ([Stampy RP2040](https://keeb.io/products/stampy-rp2040-usb-c-controller-board-for-handwiring)) and firmware (UF2 files in the Firmware/QMK and Firmware/VIAL folders)
 - Five custom 1.5mm thick aluminum switchplates, one for each row (AI files for lasercutting in the Plates/MX and Plates/ALPS-MX Combo folders)
 - The Rear and Side Assembly (STL file for 3D printing in the STLs folder)
-- Ten M2 10mm screws (six more if you want to screw the Rear and Side Assembly to the base plate for mounting a Pi)
-- Ten M2 threaded inserts (six more if you want to screw the Rear and Side Assembly to the base plate for mounting a Pi)
+- Ten M2.5 10mm screws (six more if you want to screw the Rear and Side Assembly to the base plate for mounting a Pi)
+- Ten M2.5 threaded inserts (six more if you want to screw the Rear and Side Assembly to the base plate for mounting a Pi)
 - An MX or Alps keycap set with the following ***nonstandard keys***: 1.5u R2 backspace, 1.5u R3 Enter. You'll also need a 7U or 8U spacebar, and any extra 1u R4 key that you'd like to use as a Caps Lock
 - 70 MX or Alps switches
 - 70 1N4148 through-hole diodes
