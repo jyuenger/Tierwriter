@@ -1,9 +1,0 @@
-Tierwriter outer casing originally by fresnelTHz
-https://cults3d.com/en/users/fresnelTHz/3d-models
-
-Made available under CC BY - Attribution license
-
-Direct Link to Original Model:
-https://cults3d.com/en/3d-model/gadget/mini-typewriter-phone-stand
-
-The original model has been modified by upscaling, cutting away the keyboard area to fit the Tierwriter assembly (minus the rear wall), and drilling an additional hole in the rear for the Stampy's USB cable.
