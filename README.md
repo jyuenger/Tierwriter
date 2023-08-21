@@ -142,4 +142,4 @@ Made available under [CC BY](https://creativecommons.org/licenses/by/4.0/) attri
 1. Follow the same instructions as above, but for the left support wedge, use the Left Stepped Tier for Pi Mount model. (The right wedge will remain the standard version.)
 2. Replace the standard base plate with Pi Variant Bottom. This version also has mofified screw placements for the left support wedge.
 3. Screw a caseless Pi 4 into the mount holes on the base plate, so the ports all face outwards along the rear and let side of the keyboard.
-4. Screw the Rear Wall for Pi into the base plate.
+4. Screw the Rear Wall for Pi into the base plate, in place of the standard version.
