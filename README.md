@@ -1,6 +1,6 @@
 <img alt="Tierwriter Logo" src="https://github.com/jyuenger/Tierwriter/blob/main/Miscellaneous/Logo.png" width=480>
 
-A tiered, typewriter-inspired, handwired 60% mechanical keyboard with arrows, 7u/8u spacebar, dual MX/Alps support, and modified ISO
+A tiered, typewriter-inspired, handwired 60% mechanical keyboard with arrows, 7u/8u spacebar, dual MX/Alps support, Pi 4 mounting holes, and modified ISO layout
 
 ## FULL BUILD GUIDE AND PROTOTYPE PHOTOS COMING SEPTEMBER 2023.
 See [Parts List](#what-you'll-need)
@@ -17,16 +17,6 @@ I'm normally a UK ISO user. While the Enter key here can't span two rows, there 
 
 Finally, there are arrows. I can't live without dedicated arrow keys.
 
-## Illustrations
-
-Exploded parts diagram for a basic build, without the outer shell
-
-<img alt="Exploded parts diagram" src="https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Build%20Guide%20Illustrations/Diagram.png" width="480">
-
-Mockup of tiered structure
-
-<img alt="Mockup of tiered structure" src="https://github.com/jyuenger/Tierwriter/blob/9abbb466a296ae63d2cabd3b20eebf0fafaae6d2/documentation/Mockup.png" width="300"> 
-
 Default Keymap
 
 <img alt="Default keymap" src="https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Build%20Guide%20Illustrations/Default%20Keymap.png" width=480>
@@ -34,9 +24,9 @@ Default Keymap
 # What You'll Need:
 - A controller ([Stampy RP2040](https://keeb.io/products/stampy-rp2040-usb-c-controller-board-for-handwiring)) and firmware (UF2 files in the Firmware/QMK and Firmware/VIAL folders)
 - Five custom 1.5mm thick aluminum switchplates, one for each row (AI files for lasercutting in the Plates/MX and Plates/ALPS-MX Combo folders)
-- Two stepped PLA support wedges (STL file for 3D printing in the STLs folder)
-- Ten M2 10mm screws (four more if you want to screw the undersides of the wedges the optional base plate, plus three more if you want to install the optional rear wall)
-- Ten M2 threaded inserts to heat-set into the holes in the support wedges (four more if you want to screw the undersides of the wedges the optional base plate, plus three more if you want to install the rear wall)
+- The Rear and Side Assembly (STL file for 3D printing in the STLs folder)
+- Ten M2 10mm screws (six more if you want to screw the Rear and Side Assembly to the base plate for mounting a Pi)
+- Ten M2 threaded inserts to heat-set into the holes in the support wedges (six more if you want to screw the Rear and Side Assembly to the base plate for mounting a Pi)
 - An MX or Alps keycap set with the following ***nonstandard keys***: 1.5u R2 backspace, 1.5u R3 Enter. You'll also need a 7U or 8U spacebar, and any extra 1u R4 key that you'd like to use as a Caps Lock
 - 70 MX or Alps switches
 - 70 1N4148 through-hole diodes
@@ -48,11 +38,9 @@ Default Keymap
 
 - ***Recommended***: 70 [1u Amoeba PCBs](https://keeb.io/products/amoeba-single-switch-pcbs), ([Ameoba wiring instructions here](https://github.com/mtl/keyboard-pcbs/blob/master/svg/instructions.svg)). These will work with MX or Alps switches. The build guide assumes you're using these
 - Five decorative 1.5-3mm thick acrylic top plates, one for each row (AI files for lasercutting in the Plates/Tops folder; will fit MX or Alps build)
-- 1.5-3mm thick acrylic base plate (AI file for lasercutting in the Plates/Bottom Plate folder)
-- PLA rear wall (STL file for 3D printing in the STLs folder)
-- Outer shell (based upon [a design](https://cults3d.com/en/3d-model/gadget/mini-typewriter-phone-stand) by fresnelTHz) (STL file for 3D pringing in the STLs folder). Note that if you choose to use the outer shell, you must omit the base plate and rear wall to fit.
+- 3mm thick base plate for mounting a Pi 4 (AI file for lasercutting in the Plates/Bottom Plate folder)
 
-You'll have a couple leftover switches, diodes, and Amoebas; the 70 count factors in spares.
+You'll have a few leftover switches, diodes, and Amoebas; the 70 count factors in spares.
 
 # Provisional Build Guide
 
@@ -80,10 +68,10 @@ These instructions assume you're using [Amoeba 1u PCBs](https://keeb.io/products
 3. Attach Amoeba PCBs to the underside of each switch in rows 1-4 (except the ones soldered to the Stampy), and solder the switches to their individual Amoebas. You may need to break the Amoebas into individual 1u boards if leaving them together warps the plate.
 4. For Row 5, clip in the 7u or 8u stabilizer first, then insert the spacebar switch into the switchplate's spacebar hole. Insert the remaining switches, and attach and solder the Amoeba PCBs underneath each.
 
-## Assembling the Tiered Support Wedges
+## Building the Rear and Side Assembly
 
-1. Using a soldering iron, heat set a threaded insert into each screw hole on the upper side of both tiered support wedges.
-2. If you're attaching the optional base plate, also heat set threaded inserts into the screw holes on the flat underwide of each tiered support wedge.
+1. Using a soldering iron, heat set a threaded insert into each screw hole on the upper side of both tiered sides.
+2. If you're attaching the optional base plate, also heat set threaded inserts into the screw holes on the flat underwide of the assembly.
 
 ## Row Wiring
 
@@ -91,9 +79,9 @@ These instructions assume you're using [Amoeba 1u PCBs](https://keeb.io/products
 
 <img alt="Row 0 wiring" src="https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Build%20Guide%20Illustrations/Row0.png" width="480">
 
-## Attaching Rows to the Tiered Support Wedges
+## Attaching Rows to the Rear and Side Assembly
 
-1. Screw in each row's switchplate into the appropriate tier on each end of the two tiered support wedges. Row 1 will be on the highest tier, the farthest back from you, with the USB port on the Stampy facing away from you. Rows 2 and 3 are identical. Row 5 will be closest to you, on the lowest tier.
+1. Screw in each row's switchplate into the appropriate tiers on each end of the Rear and Side Assembly. Row 1 will be on the highest pair of tiers, the farthest back from you, with the USB port on the Stampy facing away from you, though the notch in the rear wall. Rows 2 and 3 are identical. Row 5 will be closest to you, on the lowest pair of tiers.
 2. Optionally, place the decorative top plates on top of each switchplate before screwing them to the support wedges.
 
 ## Column Wiring
@@ -119,27 +107,9 @@ These instructions assume you're using [Amoeba 1u PCBs](https://keeb.io/products
 1. If you've flashed the board with the VIAL firmware, just plug the board in, launch VIAL, and it should immediately be recognized and display a live keymap of the current layout. The default layout is barebones, but you can use VIAL to add additional layers, and change any key's behavior on the fly.
 2. For QMK, you'll need to modify keymap.c and recompile the firmware.
 
-## Attaching the Optional Base and Rear Wall
+## Attaching the Optional Base
 
-1. Disconnect the keyboard, and screw the bottom plate to the two tiered support wedges.
-2. Heat set threaded inserts into each of the screw holes on the rear wall.
-3. Screw the rear wall to the base plate, between the two tiered support wedges. The notched end should go underneath the Stampy to provide extra room.
-
-## Using the Outer Shell (based on an original design by fresnelTHz)
-
-Note that the Outer Shell is not compatible with the rear wall and base; omit or remove those if using the outer shell.
-
-Outer casing model originally by [fresnelTHz](https://cults3d.com/en/users/fresnelTHz/3d-models)
-
-Made available under [CC BY](https://creativecommons.org/licenses/by/4.0/) attribution license
-
-1. 3D print the outer shell STL (in the STLs folder).
-2. Run a USB-C cable through the hole in the right rear of the outer shell, to the cut-out area in the front.
-3. Place the entire Tierwriter assembly (the completed Tierwriter including stepped support wedges and switchplates) partially into the front cavity, so the USB-C cable reaches it.
-4. Connect the USB-C cable to the Stampy's USB-C port, and slide the assembly as far back as it will go against the rear wall of the front cavity.
-
-## Experimental Pi 4 Mount Support (requires base plate; not compatible with the Outer Shell)
-1. Follow the same instructions as above, but for the left support wedge, use the Left Stepped Tier for Pi Mount model. (The right wedge will remain the standard version.)
-2. Replace the standard base plate with Pi Variant Bottom. This version also has mofified screw placements for the left support wedge.
-3. Screw a caseless Pi 4 into the mount holes on the base plate, so the ports all face outwards along the rear and let side of the keyboard.
-4. Screw the Rear Wall for Pi into the base plate, in place of the standard version.
+1. Turn the completed keyboard over gently, so the caps are facing down, and you're looking directly at the underside, with the threaded inserts facing towards you.
+2. Align the screw slots in the bottom plate with the assembly's threaded inserts, and install the screws in each to conenct them.
+3. Optionally, mount a Pi 4 in the open area in the rear left using M2.5 screws. The Pi's USB ports should face to the left of the board during normal usage, with the power and HDMI ports facing the rear.
+4. Use a short USB-C to USB-A cable to connect the keyboard's controller to the Pi.
