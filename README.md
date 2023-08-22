@@ -100,6 +100,10 @@ Threaded inserts, heat-set into an early prototype of the assembly.
 1. Screw in each row's switchplate into the appropriate tier on the Rear and Side Assembly. Row 1 will be on the highest tier (the farthest back from you), with the USB port on the Stampy facing away from you, though the notch in the rear wall. Rows 2 and 3 are identical. Row 5 will be closest to you, on the lowest tier.
 2. Optionally, place the decorative top plates on top of each switchplate before screwing them to the assembly.
 
+The underside of the board should look something like this once the row plates have been screwed into the threaded inserts.
+
+<img alt="Underside of of the assembly" src="https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Build%20Guide%20Illustrations/Underside.png" width=480>
+
 ## Column Wiring
 
 1. [Solder the columns of the Amoebas together](https://github.com/mtl/keyboard-pcbs/blob/master/svg/instructions.svg), creating 15 soldered columns (ignoring the three switches on the Stampy). The Grave key at the end of Row 1, opposite the Stampy, is its own column, and won't be soldered to any other keys in this step. [Consult the wiring diagram](https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Wiring/Stampy%20RP2040%20Matrix%20Wiring.png) to make sure each column runs between rows correctly.
