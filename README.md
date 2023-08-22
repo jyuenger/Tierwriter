@@ -27,7 +27,7 @@ Default Keymap
 
 # What You'll Need:
 - A controller ([Stampy RP2040](https://keeb.io/products/stampy-rp2040-usb-c-controller-board-for-handwiring)) and firmware (UF2 files in the Firmware/QMK and Firmware/VIAL folders)
-- Five custom 1.5mm thick aluminum switchplates, one for each row (AI files for lasercutting in the Plates/MX and Plates/ALPS-MX Combo folders)
+- Five custom 1.5mm thick aluminum (or steel, for a less bouncy build) switchplates, one for each row (AI files for lasercutting in the Plates/MX and Plates/ALPS-MX Combo folders)
 - The Rear and Side Assembly (STL file for 3D printing in the STLs folder)
 - Ten M2.5 10mm screws (six more if you want to screw the Rear and Side Assembly to the base plate for mounting a Pi)
 - Ten M2.5 threaded inserts (six more if you want to screw the Rear and Side Assembly to the base plate for mounting a Pi)
