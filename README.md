@@ -51,8 +51,6 @@ You'll have a few leftover switches, diodes, and Amoebas; the 70 count factors i
 
 ## Caveats
 
-***WARNING: This is a VERY bouncy typing experience.***
-
 These instructions assume you're using [Amoeba 1u PCBs](https://keeb.io/products/amoeba-single-switch-pcbs) on every key, a [Stampy RP2040 PCB](https://keeb.io/products/stampy-rp2040-usb-c-controller-board-for-handwiring). and through-hole diodes. Minor changes will be necessary if not, but the basics of the build should remain the same. Note that you can use the Amoebas with Alps switches as well as MX!
 
 ## Attaching and Soldering Diodes
