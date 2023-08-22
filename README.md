@@ -21,7 +21,7 @@ I'm normally a UK ISO user. While the Enter key here can't span two rows, there 
 
 Finally, there are arrow keys. I can't live without dedicated arrow keys.
 
-*** WARNING: This is a VERY bouncy typing experience. ***
+***WARNING: This is a VERY bouncy typing experience.***
 
 Default Keymap
 
