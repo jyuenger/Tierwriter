@@ -5,10 +5,9 @@ A tiered, typewriter-inspired, handwired 60% mechanical keyboard with arrows, 7u
 ## Renders
 <img src="https://github.com/jyuenger/Tierwriter/blob/main/Miscellaneous/Renders/01.png" width=200> <img src="https://github.com/jyuenger/Tierwriter/blob/main/Miscellaneous/Renders/05.png" width=200> <img src="https://github.com/jyuenger/Tierwriter/blob/main/Miscellaneous/Renders/02.png" width=200>
 
-## FULL BUILD GUIDE AND PROTOTYPE PHOTOS COMING SEPTEMBER 2023.
 See [Parts List](#what-you'll-need)
 
-Jump to [Provisional Build Guide](#provisional-build-guide)
+Jump to [Build Guide](#build-guide)
 
 # Introduction
 
@@ -21,6 +20,8 @@ The internal space created by the tiers gave me the idea to support mounting a R
 I'm normally a UK ISO user. While the Enter key here can't span two rows, there are alpha keys for hash, grave/negation, and non-US backslash (on row 1), as well as an ISO left Shift. For other langauges that use ISO layout, the 1u R4 Caps Lock key can be remapped as an additional alpha.
 
 Finally, there are arrow keys. I can't live without dedicated arrow keys.
+
+WARNING: This is a VERY bouncy typing experience.
 
 Default Keymap
 
@@ -48,7 +49,7 @@ Default Keymap
 
 You'll have a few leftover switches, diodes, and Amoebas; the 70 count factors in spares.
 
-# Provisional Build Guide
+# Build Guide
 
 ## Caveats
 
