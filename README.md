@@ -84,6 +84,10 @@ The assembly, with mounting holes for the row plates.
 
 <img alt="Side and rear assembly" src="https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Build%20Guide%20Illustrations/Assembly.png" width="480">
 
+Threaded inserts, heat-set into an early prototype of the assembly.
+
+<img alt="Threaded inserts" src="https://github.com/jyuenger/Tierwriter/blob/main/Documentation/Build%20Guide%20Illustrations/ThreadedInserts.png" width="480">
+
 
 ## Row Wiring
 
